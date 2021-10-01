@@ -54,7 +54,11 @@ My VSCode Settings
     "ms-azuretools.vscode-docker": "workspace"
   },
   "editor.minimap.maxColumn": 30,
-  "editor.minimap.size": "fill"
+  "editor.minimap.size": "fill",
+  "workbench.colorTheme": "Yaru Blue Dark",
+  "workbench.productIconTheme": "fluent-icons",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.lineNumbers": "relative"
 }
 
 ```
